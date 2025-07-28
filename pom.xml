@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>simple-httpserver</module>
-    <module>servlet-api</module>
     <module>springboot-api</module>
+    <module>servlet-api</module>
   </modules>
 </project>
